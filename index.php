@@ -9,6 +9,8 @@
  *  2. INTEGER_ARRAY ar
  */
 
+//more details at https://www.hackerrank.com/challenges/sock-merchant/
+
 function sockMerchant($n, $ar) {
     // Write your code here
     $pairs = 0;
